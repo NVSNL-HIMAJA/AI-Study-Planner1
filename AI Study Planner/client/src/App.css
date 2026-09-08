@@ -1,0 +1,10 @@
+function App() {
+  return (
+    <div>
+      <h1>AI Study Planner</h1>
+      <p>Plan smarter. Study better.</p>
+    </div>
+  );
+}
+
+export default App;
